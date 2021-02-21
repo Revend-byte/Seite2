@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+	color: white;
+	font-family: helvetica;
+	font-size: 35px;
+}
+.Ü{
+	color: red;
+}
+h2{
+	color: red;
+}
+.Kreis{
+	font-size: 35px;
+	font-weight: 500;
+	display: inline-block;
+	height: 30px;
+	width: 30px;
+}
