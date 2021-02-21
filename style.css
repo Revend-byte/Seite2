@@ -17,3 +17,14 @@ h2{
 	height: 30px;
 	width: 30px;
 }
+.Button{
+	text-decoration: none;
+	border: 8px white solid;
+	border-radius: 20px;
+	background-color: black;
+	color: white;
+	font-size: 40px; 
+	font-weight: 500;
+	height: 60px;
+	width: 180px;
+}
